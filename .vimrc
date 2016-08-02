@@ -1,6 +1,6 @@
 syntax enable
 
-colorscheme desert
+colorscheme badwolf
 set background=dark
 
 set tabstop=2
